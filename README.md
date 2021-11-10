@@ -2,6 +2,8 @@
 
 # Desafio | Front-end - Módulo 2
 
+## <a href="https://higor.netlify.app">Link do site</a>
+
 Você acabou de ser contratado pela melhor empresa de tecnologia do mundo: a **CUBOS**.
 Sua primeira tarefa como desenvolvedor é criar uma aplicação para um serviço de streaming (pense num Netflix).
 
